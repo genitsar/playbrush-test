@@ -34,3 +34,5 @@ This command with create an user_data_results.csv with the user data analytics r
 will also save the group data analytics results in the group_data_results.csv. The group data results of the second file
 will also be plotted using bar plots and the image will be saved in the folder.
 
+## User and Group Data Analytics Results
+Results are found in file [Playbrush Data Analysis Results.pdf](Playbrush Data Analysis Results.pdf)
