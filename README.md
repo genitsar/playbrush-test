@@ -35,4 +35,4 @@ will also save the group data analytics results in the group_data_results.csv. T
 will also be plotted using bar plots and the image will be saved in the folder.
 
 ## User and Group Data Analytics Results
-Results are found in file [Playbrush Data Analysis Results.pdf](Playbrush Data Analysis Results.pdf)
+Results are found in file [Playbrush Data Analysis Results.pdf](./Playbrush Data Analysis Results.pdf)
